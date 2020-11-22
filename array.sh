@@ -1,0 +1,5 @@
+arithmetic[0]="$result1"
+arithmetic[1]="$result2"
+arithmetic[2]="$result3"
+arithmetic[3]="$result4"
+echo " ${arithmetic[@]} "
